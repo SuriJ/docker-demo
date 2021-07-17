@@ -1,0 +1,3 @@
+com\sample\playjava\ServletInitializer.class
+com\sample\playjava\controller\MyController.class
+com\sample\playjava\DockerDemoApplication.class
